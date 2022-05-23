@@ -11,8 +11,7 @@ __license__ = "MIT"
 
 def are_you_playing_banjo(name):
     # Implement me!
-    name = str.capitalize(name)
-    if name[0] == 'R':
+    if name[0] == 'r' or name[0] == 'R':
         answer = name + " plays banjo"
     else:
         answer = name + " does not play banjo"
