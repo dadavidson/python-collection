@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+# Instructions
 Create a function which answers the question "Are you playing banjo?".
 If your name starts with the letter "R" or "r", you are playing banjo!
 """
