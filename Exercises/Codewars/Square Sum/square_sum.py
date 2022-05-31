@@ -1,3 +1,3 @@
 def square_sum(numbers):
-    #your code here
+    # your code here
     pass
