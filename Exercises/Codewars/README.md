@@ -1,2 +1,2 @@
 # Codewars - Python
-CodeWars Python katas and solutions
+Codewars Python katas and solutions
