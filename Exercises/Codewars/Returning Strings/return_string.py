@@ -12,3 +12,7 @@ __license__ = "MIT"
 
 def greet(name):
     return f'Hello, {name} how are you doing today?'
+
+
+output = greet('Roger')
+print(output)
