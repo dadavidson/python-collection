@@ -1,13 +1,7 @@
 # Solution
 def get_count(sentence):
     import re
-    
-    x = []
-    
-    for element in sentence:
-        x = re.findall("[aeiou]", sentence)
-    
-    return len(x)
+    return len(re.findall("[aeiou]", sentence))
 
 # Tests
 import codewars_test as test
